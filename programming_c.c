@@ -9,13 +9,7 @@ int main () {
     printf("Floor of result is : %lf \n", floor(result));
     printf("Trunc of resut is : %lf \n", trunc(result));
 
-    if (result > 1000)
-    {
-        printf("It's a valid result \n");
-    } else
-    {
-        printf("It's not a valid result\n");
-    }
+    
     
 
     return (0);
